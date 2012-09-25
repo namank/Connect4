@@ -1,0 +1,7 @@
+Welcome to Connect4 online.
+
+This is my first attempt at creating an interactive web-game completely using latest web technologies - HTML5, Javascript and AJAX. My interest in such games started when I wanted to play Rock, Paper and Scissors with a friend who lived far. Since video chat was not feasible, I created an online game for two people to play Rock, Paper and Scissors with each other over the web.
+
+After reading about the latest HTML5 features, and in an attempt to learn more about Canvas and AJAX, I decided to create Connect4. There are no graphics at all, and all the UI is based on simple canvas drawings and animations using CSS3. The checking of the online status of the opponent is done using long polling, as opposed to continuous ping at regular intervals, to reduce server load. The backend is written in PHP and the data is stored in a MySQL database.
+
+This is just an initial version, and will be polished to include a more elegant user interface.
